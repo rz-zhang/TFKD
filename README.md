@@ -1,4 +1,4 @@
-# Teacher-free-Knowledge-Distillation
+# Modified Tf-KD for Comparison
 ## Implementation for our paper: Revisiting Knowledge Distillation via Label Smoothing Regularization, [arxiv](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C22&q=Revisit+Knowledge+Distillation%3A+a+Teacher-free+Framework+Yuan&btnG=) 
 
 The paper in arxiv and CVPR2020 has different titles: Revisiting Knowledge Distillation via Label Smoothing Regularization and Revisit Knowledge Distillation (CVPR) a Teacher-free Framework (arxiv), we will update the arxiv version with the correct title.
